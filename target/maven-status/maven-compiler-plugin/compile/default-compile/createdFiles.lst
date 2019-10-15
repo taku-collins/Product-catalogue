@@ -1,0 +1,14 @@
+com/product/crud/service/categoryServiceImpl.class
+com/product/crud/repository/categoryRepository.class
+com/product/crud/service/productServiceImpl.class
+com/product/crud/Controllers/productController.class
+com/product/crud/CrudApplication.class
+com/product/crud/model/Product.class
+com/product/crud/Bootstraping/DBData.class
+com/product/crud/SwaggerConfig.class
+com/product/crud/Controllers/categoryController.class
+com/product/crud/Bootstraping/DBCategory.class
+com/product/crud/model/Category.class
+com/product/crud/repository/productRepository.class
+com/product/crud/service/productService.class
+com/product/crud/service/categoryService.class

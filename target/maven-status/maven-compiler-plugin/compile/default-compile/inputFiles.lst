@@ -1,0 +1,14 @@
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/CrudApplication.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/repository/productRepository.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/Controllers/categoryController.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/Bootstraping/DBCategory.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/model/Category.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/Bootstraping/DBData.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/service/productService.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/SwaggerConfig.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/service/categoryService.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/model/Product.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/repository/categoryRepository.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/service/categoryServiceImpl.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/Controllers/productController.java
+/home/collins/NetBeansProjects/Product-Catalog-Project-master/src/main/java/com/product/crud/service/productServiceImpl.java
